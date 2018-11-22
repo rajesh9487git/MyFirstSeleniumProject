@@ -34,7 +34,7 @@ public class AddNewPostsTest extends base {
 		WordPressDashBoard a= new WordPressDashBoard(driver);
 		a.post().click();
 		a.addnewposts().click();
-		a.enterposttitle().sendKeys("Rajesh666");
+		a.enterposttitle().sendKeys("Rajesh688");
 		/*//JavascriptExecutor js= (JavascriptExecutor)driver;
 		
 		//String script= "return document.getElementById('title-prompt-text').innerHTML='Rajesh123';";
